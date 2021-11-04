@@ -2,15 +2,6 @@
   
 
 
-### Glad to see you here!  
-I’m a KPI student who has turned years of studying into a full-time career. Being a DevOps engineer allows me to not only develop automation workflows but also develop it with a great team of professionals.
-
-I specialize in writing roles that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective.  
-  
-
-<br/>  
-
-
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
   
@@ -38,6 +29,8 @@ I specialize in writing roles that do all the heavy lifting for your app or webs
 
 <br/>  
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 ## Social
