@@ -13,8 +13,6 @@ I specialize in writing roles that do all the heavy lifting for your app or webs
 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
-
-- 🔭 I’m currently working in [INC4](https://github.com/inc4)🇺🇦  
   
 
 - 🌱 I’m currently learning Ansible, Terraform and Kubernetes
