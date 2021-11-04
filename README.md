@@ -1,5 +1,4 @@
-### Hi there 👋
-
+[![Header](https://raw.githubusercontent.com/ozhadaie/ozhadaie/master/ItsTerminal.gif "Header")](https://github.com/ozhadaie)
 <!--
 **ozhadaie/ozhadaie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
