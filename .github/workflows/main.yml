@@ -24,5 +24,6 @@ jobs:
           SHOW_LANGUAGE: False
           SHOW_LINES_OF_CODE: True
           SHOW_COMMIT: False
-          SHOW_OS: False
+          SHOW_OS: True
           SHOW_SHORT_INFO: False
+          SHOW_TIMEZONE: True
