@@ -37,6 +37,9 @@
 ```text
 ⌚︎ Time Zone: Europe/Kiev
 
+💻 Operating System: 
+No Activity Tracked This Week
+
 ```
 
 
