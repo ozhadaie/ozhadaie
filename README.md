@@ -2,33 +2,7 @@
   
 
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-  
-
-- 🌱 I’m currently learning Ansible, Terraform and Kubernetes
-  
-
-- ❓ Ask me about anything related to DevOps stack and related technologies  
-  
-  
-- 📬 Contact me via [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ozhadaie@gmail.com)
-
-
-- ⚡ Fun fact: Elephants can’t jump.  
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
-
-
-## Social
+## Find Me
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ozhadaie)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ozhadaie/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ozhadaie/)
