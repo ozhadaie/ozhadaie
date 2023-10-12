@@ -1,53 +1,33 @@
-## Hey 👋, I'm Oleksii Zhadaiev!  
-  
+# Hi there! 👋 I'm Oleksii Zhadaiev
+I'm a passionate Devops Engineer from Ukraine with a love for riding a motorcycle. Welcome to my GitHub profile!
 
+## About Me
 
-## Find Me
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ozhadaie)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ozhadaie/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ozhadaie/)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/jf0kd0q2qla6okovv0c947jnm?si=0cebc5801b1244f2)
+- 🌱 I'm currently learning AWS.
+- 💼 I work as a DevOps Engineer at BetInvest.
+- 📫 You can reach me at ozhadaie@icloud.com.
+- 📖 I love reading books, especially Meditations, Marcus Aurelius.
+- 🎮 In my free time, I enjoy playing some coop games.
 
+## My Certificates
 
+Here are some of the certificates I'm proud of:
 
-## Languages and Tools  
-![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/k8s-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+1. ⎈[CKA: Certified Kubernetes Administrator](https://www.credly.com/badges/165255bb-af6b-47e0-b453-cf0b15ead82c/linked_in_profile).
+2. [HashiCorp Certified: Terraform Associate (002)](https://www.credly.com/badges/30000214-da3f-45ff-88ce-def16734951f?source=linked_in_profile).
+3. [:cloud:AWS Certified Cloud Practitioner
+](https://www.credly.com/badges/2d3b2805-2f8f-4bdd-b80d-a244a7403f69?source=linked_in_profile).
 
+## My Stats
 
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ozhadaie&show_icons=true&theme=dark)](https://github.com/ozhadaie)
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
+## Let's Connect
 
-<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=ozhadaie&show_icons=true&count_private=true&hide_border=true&theme=github_dark" align="right" style="width: 100%" /></div>
+- 📧 You can email me at ozhadaie@icloud.com.
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/ozhadaie).
+- 📷 Check out my photos on [Instagram](https://www.instagram.com/ozhadaie).
 
-</td><td valign="top" width="50%">
+## Thanks for Visiting!
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozhadaie&hide_border=true&layout=compact&theme=github_dark" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ozhadaie&theme=darkhub&margin-w=15&no-frame=true&no-bg=true&title=Followers,Commit,PullRequest,Issues)](https://github.com/ozhadaie/github-profile-trophy)
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
+Thanks for stopping by! Feel free to explore my projects and connect with me. I'm always open to new collaborations and interesting conversations. 😊
