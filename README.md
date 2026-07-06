@@ -1,33 +1,75 @@
-# Hi there! 👋 I'm Oleksii Zhadaiev
-I'm a passionate Devops Engineer from Ukraine with a love for riding a motorcycle. Welcome to my GitHub profile!
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=ozhadaie&fontSize=62&fontColor=fff&animation=twinkling&fontAlignY=34&desc=DevOps%20Engineer%20%7C%20Cloud%20Native%20%7C%20Infrastructure%20as%20Code&descAlignY=56&descSize=16" />
+</div>
 
-## About Me
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00B4D8&center=true&vCenter=true&width=640&height=50&lines=Kubernetes+%E2%80%A2+Docker+%E2%80%A2+Terraform+%E2%80%A2+ArgoCD;AWS+%E2%80%A2+GitLab+CI%2FCD+%E2%80%A2+Helm;CKA+%7C+AWS+Certified+%7C+Terraform+Associate;Shipping+infrastructure+that+scales" alt="Typing SVG" />
+</div>
 
-- 🌱 I'm currently learning AWS.
-- 💼 I work as a DevOps Engineer at BetInvest.
-- 📫 You can reach me at ozhadaie@icloud.com.
-- 📖 I love reading books, especially Meditations, Marcus Aurelius.
-- 🎮 In my free time, I enjoy playing some coop games.
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ozhadaie&color=00B4D8&style=flat-square&label=Profile+Views" />
+  <a href="mailto:ozhadaie@icloud.com">
+    <img src="https://img.shields.io/badge/Email-ozhadaie%40icloud.com-D14836?style=flat-square&logo=apple&logoColor=white" />
+  </a>
+</div>
 
-## My Certificates
+---
 
-Here are some of the certificates I'm proud of:
+## 🎖️ Certifications
 
-1. ⎈[CKA: Certified Kubernetes Administrator](https://www.credly.com/badges/165255bb-af6b-47e0-b453-cf0b15ead82c/linked_in_profile).
-2. [HashiCorp Certified: Terraform Associate (002)](https://www.credly.com/badges/30000214-da3f-45ff-88ce-def16734951f?source=linked_in_profile).
-3. [:cloud:AWS Certified Cloud Practitioner
-](https://www.credly.com/badges/2d3b2805-2f8f-4bdd-b80d-a244a7403f69?source=linked_in_profile).
+<div align="center">
+  <img src="https://img.shields.io/badge/CKA-Kubernetes_Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <br><br>
+  <img src="https://img.shields.io/badge/AWS-Certified-FF9900?style=for-the-badge&logo=amazon-web-services&logoColor=white" />
+  <img src="https://img.shields.io/badge/HashiCorp-Terraform_Associate-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+</div>
 
-## My Stats
+---
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ozhadaie&show_icons=true&theme=dark)](https://github.com/ozhadaie)
+## 🛠️ Stack
 
-## Let's Connect
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=kubernetes,docker,terraform,aws,gitlab,git,bash,python,linux,ansible&perline=10" />
+</div>
 
-- 📧 You can email me at ozhadaie@icloud.com.
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/ozhadaie).
-- 📷 Check out my photos on [Instagram](https://www.instagram.com/ozhadaie).
+<div align="center" style="margin-top:12px">
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vault-FFEC6E?style=flat-square&logo=vault&logoColor=black" />
+  <img src="https://img.shields.io/badge/EKS-FF9900?style=flat-square&logo=amazon-web-services&logoColor=white" />
+</div>
 
-## Thanks for Visiting!
+---
 
-Thanks for stopping by! Feel free to explore my projects and connect with me. I'm always open to new collaborations and interesting conversations. 😊
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ozhadaie&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozhadaie&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ozhadaie&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ozhadaie&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ozhadaie&theme=tokyo-night&hide_border=true&area=true" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+</div>
